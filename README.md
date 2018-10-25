@@ -1,4 +1,17 @@
 # Programa_Arduino_Java
+INSTITUTO TECNOLÓGICO DE LEÓN
+
+PROYECTO DE MENSAJE EN LCD CON PROGRAMACIÓN EN JAVA.
+
+ALUMNOS:
+Roberto Ismael Ramírez Rios.
+Paola Castillo Irene.
+
+	PROFESOR:
+ING. Levy Rojas Carlos Rafael.
+
+Fecha de Entrega: 25-oct-2018.
+
 INTRODUCCIÓN
 Este proyecto muestra mensajes en una pantalla LCD desde una ventana en java que cualquier usuario puede escribir dentro de la pantalla que hemos creado en este lenguaje de java. Los mensajes, como se puede observar en las imágenes, obviamente son mensajes cortos, esto con la intención de que nuestra pantalla LCD no tenga problemas al momento de mostrarlos.
 Las ventanas hechas en java serán ejecutadas únicamente en una computadora u ordenador, ya que hasta el momento solamente hemos creado ese tipo de interfaces, aunque se prevé crearlas dentro del ambiente Android para que puedas escribir mensajes desde tu celular.
@@ -182,7 +195,6 @@ break;
 caso 50:
 salida='2'; 
 descanso;
-case 50: break;
 case 51: 
 salida='3'; 
 break; 
